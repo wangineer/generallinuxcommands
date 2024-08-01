@@ -16,3 +16,8 @@ Modify the sudoers File
 "user_name" = name of the user you created in step above
   Find the "admin" group
     user_name ALL=(ALL)  ALL   <<<< Make sure you modify the "username" to the name you created in above step.
+
+
+
+how to install webP for linux to modify images
+https://www.tecmint.com/convert-images-to-webp-format-in-linux/
