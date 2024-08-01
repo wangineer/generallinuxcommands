@@ -21,3 +21,7 @@ Modify the sudoers File
 
 how to install webP for linux to modify images
 https://www.tecmint.com/convert-images-to-webp-format-in-linux/
+
+$ cwebp -q 60 Cute-Baby-Girl.png -o Cute-Baby-Girl.webp
+OR
+$ ./cwebp -q 60 Cute-Baby-Girl.png -o Cute-Baby-Girl.webp
