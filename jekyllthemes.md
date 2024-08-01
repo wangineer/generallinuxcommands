@@ -10,3 +10,8 @@ Mediumish - Thinking of maybe using it for Wangineer or personal stuff
 Github: https://github.com/wowthemesnet
 Theme: https://github.com/wowthemesnet/mediumish-theme-jekyll/
 Demo: https://wowthemesnet.github.io/mediumish-theme-jekyll/
+
+
+
+someone from discord blog using chirpy didn't really work great
+https://chrisjhart.com/Creating-a-Simple-Free-Blog/
