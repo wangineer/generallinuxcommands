@@ -14,5 +14,5 @@ Modify the sudoers File
   > sudo visudo   <<<< Does the same thing
 
 "user_name" = name of the user you created in step above
-  Find the root 
+  Find the "admin" group
     user_name ALL=(ALL)  ALL   <<<< Make sure you modify the "username" to the name you created in above step.
