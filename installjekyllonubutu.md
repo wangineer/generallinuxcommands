@@ -15,7 +15,8 @@ gem install jekyll bundler
 
 
 
-
+Jekyll full documentation install dependencies
+https://jekyllrb.com/docs/installation/ubuntu/
 
 
 starting fresh
@@ -30,7 +31,24 @@ Ruby: https://www.ruby-lang.org/en/downloads/
          -  y
      Step b: Setup your shell to load rbenv
        - rbenv init
-    Steb C : close window and re-open for changes to take effect
+    Steb C : You will get an output that tells you to update a file
+=====================================
+kevin@ct-wangineer-github:~$ rbenv init
+# Load rbenv automatically by appending
+# the following to ~/.bashrc:
+
+eval "$(rbenv init -)"
+
+kevin@ct-wangineer-github:~$
+==========================================
+go to this url it tells you have to update
+https://www.youtube.com/watch?v=WRolttrWKik           <<  MINUTE 1:54
+    nano ~/.bashrc
+           eval "$(rbenv init -)"
+
+
+
+   close window and re-open for changes to take effect
 
 
 2: Check Gem Version 
@@ -66,3 +84,9 @@ rbenv install -L
 # install a Ruby version:
 rbenv install 3.1.2
 
+
+
+
+
+each server you have to install the extensions
+GitHub Pull Requests
