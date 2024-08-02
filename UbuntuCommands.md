@@ -47,3 +47,12 @@ https://www.tecmint.com/convert-images-to-webp-format-in-linux/
 $ cwebp -q 60 Cute-Baby-Girl.png -o Cute-Baby-Girl.webp
 OR
 $ ./cwebp -q 60 Cute-Baby-Girl.png -o Cute-Baby-Girl.webp
+
+
+
+How to remove old ssh keys ( i use when i delete a server and use same ip address
+https://kinsta.com/knowledgebase/warning-remote-host-identification-has-changed/
+%USERPROFILE%
+ - Then go to .SSH folder
+ - Edit the knownusers file
+ - delete the hosts that that neeeds deleting
