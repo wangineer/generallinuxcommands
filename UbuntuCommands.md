@@ -1,3 +1,18 @@
+How to enable SSH on recently created Proxmox
+first you have to log into the Proxmox server and enter 
+   pct enter 113   < This gets you into the container
+Once in the container you need to edit the sshd_config file
+nano /etc/ssh/sshd_config
+Find the "PermitRootLogin prohibit-password" output
+Uncomment it. 
+  - Or replace it with yes, but I don't think you want to do that. and replace "prohibit-password" and replace it with yse
+before:
+#PermitRootLogin prohibit-password
+After:
+PermitRootLogin yes
+
+
+
 How to add user to Ubuntu
 https://www.digitalocean.com/community/tutorials/how-to-add-and-delete-users-on-ubuntu-20-04
   adduser newuser
