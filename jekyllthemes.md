@@ -16,3 +16,9 @@ Demo: https://wowthemesnet.github.io/mediumish-theme-jekyll/
 
 someone from discord blog using chirpy didn't really work great
 https://chrisjhart.com/Creating-a-Simple-Free-Blog/
+
+
+
+
+if you want to download image you need to use below command to pull and sync
+git config pull.rebase false
