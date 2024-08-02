@@ -1,0 +1,45 @@
+Received this error
+kevin@ct-wangineer-github:~/wangineer.github.io$ bundle install
+Fetching gem metadata from https://rubygems.org/...........
+Resolving dependencies...
+Could not find compatible versions
+
+Because html-proofer >= 5.0.0 depends on Ruby >= 3.1, < 4.0
+  and Gemfile depends on html-proofer ~> 5.0,
+  Ruby >= 3.1, < 4.0 is required.
+So, because current Ruby version is = 3.0.2,
+  version solving has failed.
+
+
+
+
+
+
+
+===================================================
+This below needs to be added at the start
+Edit the Gemfile
+  nano Gemfile
+
+add below lines
+
+gem 'nokogiri'
+gem 'rack', '~> 2.2.4'
+gem 'rspec'
+
+modify the "gem "html-proofer", from 5.0 to 3.0
+
+save and exit
+
+
+
+
+bundle install  <<< This now works
+
+
+
+now you can do below to have a local site
+bundle exec jekyll serve      < this will offer it up at 127.0.0.1 on port 4000
+you want this to be accessible remotely  so you need to add a host ip 0.0.0.0
+
+#bundle exec jekyll server --host 0.0.0.0
