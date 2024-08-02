@@ -12,7 +12,6 @@ After:
 PermitRootLogin yes
 
 
-
 How to add user to Ubuntu
 https://www.digitalocean.com/community/tutorials/how-to-add-and-delete-users-on-ubuntu-20-04
   adduser newuser
@@ -31,6 +30,14 @@ Modify the sudoers File
 "user_name" = name of the user you created in step above
   Find the "admin" group
     user_name ALL=(ALL)  ALL   <<<< Make sure you modify the "username" to the name you created in above step.
+
+
+Update and install
+  sudo apt-get update && sudo apt-get install
+
+
+
+
 
 
 
