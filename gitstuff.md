@@ -33,3 +33,8 @@ https://www.youtube.com/watch?v=fJ6yJGM-M7Q
 
 How to install ruby ( probably used)
 https://www.ruby-lang.org/en/documentation/installation/
+
+
+
+after uploading an image you can complete the following to get the image downloaded and sync
+    git config pull.rebase false
