@@ -13,6 +13,9 @@ Theme: https://github.com/wowthemesnet/mediumish-theme-jekyll/
 Demo: https://wowthemesnet.github.io/mediumish-theme-jekyll/
 
 
+not a theme but he also had some stuff to maybehelp
+https://www.osotechie.com/p
+
 
 someone from discord blog using chirpy didn't really work great
 https://chrisjhart.com/Creating-a-Simple-Free-Blog/
