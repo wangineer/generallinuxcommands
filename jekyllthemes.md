@@ -16,6 +16,8 @@ Demo: https://wowthemesnet.github.io/mediumish-theme-jekyll/
 not a theme but he also had some stuff to maybehelp
 https://www.osotechie.com/p
 
+anther person doing some cool stuff
+https://mindlesstux.com/2018/09/23/zerotier-multsite-lan-part-3-setup-router-to-use-the-routing-vms/
 
 someone from discord blog using chirpy didn't really work great
 https://chrisjhart.com/Creating-a-Simple-Free-Blog/
