@@ -36,3 +36,7 @@ https://geraldtui.com/bookshelf/
 
 This is where you get your Icons for the left side tabs
 https://fontawesome.com/v4/icons/
+
+
+how to create favicon
+https://realfavicongenerator.net/
