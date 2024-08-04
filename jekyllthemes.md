@@ -40,3 +40,7 @@ https://fontawesome.com/v4/icons/
 
 how to create favicon
 https://realfavicongenerator.net/
+
+
+formatting
+https://idratherbewriting.com/documentation-theme-jekyll/tag_formatting.html
