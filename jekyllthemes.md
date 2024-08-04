@@ -32,3 +32,7 @@ git config pull.rebase false
 
 Bookshelf idea
 https://geraldtui.com/bookshelf/
+
+
+This is where you get your Icons for the left side tabs
+https://fontawesome.com/v4/icons/
