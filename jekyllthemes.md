@@ -48,3 +48,8 @@ https://idratherbewriting.com/documentation-theme-jekyll/tag_formatting.html
 
 chirpy theme create additional page to have books
 https://talk.jekyllrb.com/t/how-to-add-the-author-name/951
+
+
+New Icons for bottom left hand corner
+https://fontawesome.com/search?p=3&o=r&f=brands
+https://fontawesome.com/v4/icon/flask
