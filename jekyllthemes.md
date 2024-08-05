@@ -44,3 +44,7 @@ https://realfavicongenerator.net/
 
 formatting
 https://idratherbewriting.com/documentation-theme-jekyll/tag_formatting.html
+
+
+chirpy theme create additional page to have books
+https://talk.jekyllrb.com/t/how-to-add-the-author-name/951
